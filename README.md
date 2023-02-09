@@ -1,4 +1,8 @@
-## Hey 👋, I'm Mohammad Mustakim Hassan  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mmhshayer&&style=flat-square" align="center" />
+</div>  
+
+# Hey 👋, I'm Mohammad Mustakim Hassan  
   
 
 <a href="https://github.com/mmhshayer" target="_blank">
@@ -97,14 +101,11 @@ I am a skilled and experienced full-stack developer with over a year of professi
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmhshayer&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center" float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mmhshayer&show_icons=true&count_private=true&hide_border=true" style="width: 45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhshayer&hide_border=true&layout=compact" style="width: 40%" />
+</div>
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhshayer&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-----
-<div align="center">![Profile views counter](https://komarev.com/ghpvc/?username=mmhshayer&&style=flat-square)  </div>
