@@ -1,4 +1,3 @@
-<div align="center">![Profile views counter](https://komarev.com/ghpvc/?username=mmhshayer&&style=flat-square)  </div>
 ## Hey 👋, I'm Mohammad Mustakim Hassan  
   
 
@@ -108,3 +107,4 @@ I am a skilled and experienced full-stack developer with over a year of professi
 
 </td></tr></table>  
 ----
+<div align="center">![Profile views counter](https://komarev.com/ghpvc/?username=mmhshayer&&style=flat-square)  </div>
